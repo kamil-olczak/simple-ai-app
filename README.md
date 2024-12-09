@@ -1,6 +1,8 @@
 # simple-ai-app
- A simple application using an AI model trained on the CIFAR-10 dataset
 
+A simple application using an AI model trained on the CIFAR-10 dataset can classify images into 10 categories sucha as airplanes, cars, birds, cats, deers, dogs, frogs, horse, ships, trucks. The app allows user to upload an image, processes it using a lightweight convolutional neural network, and displays the predicted category.
+
+<img width="800" alt="Zrzut ekranu 2024-12-9 o 14 56 15" src="https://github.com/user-attachments/assets/ad002139-a3b6-437d-8b47-1e693ca2e58e">
 
 ## Model architecture and training results
 
